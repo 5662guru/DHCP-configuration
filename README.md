@@ -80,5 +80,4 @@ exit
 
 **Bora Guru Charan**
 
-CompTIA Security+ Certified
 
